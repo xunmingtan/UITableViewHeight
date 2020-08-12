@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-IOS_UI-IOS_UIUITests/Pods-IOS_UI-IOS_UIUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/UITableView+FDTemplateLayoutCell/UITableView_FDTemplateLayoutCell.framework
